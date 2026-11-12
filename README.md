@@ -39,3 +39,11 @@ pytest -q
 Do not upload private photos to public hosting. No images are sent to third-party inference APIs by the application.
 
 Created by Adarsh Anand.
+
+## Project discovery
+
+**Computer Vision Image Processing Studio** — Streamlit OpenCV image processing app with Canny edge detection, grayscale filters, Gaussian blur, contours, adaptive thresholding and optional ONNX object detection.
+
+**Related developer searches:** computer vision, image processing, OpenCV, Streamlit, Python, edge detection, ONNX.
+
+**Source:** [VisionAI-Studio](https://github.com/iamAdarshAnand/VisionAI-Studio) · **Author:** [Adarsh Anand](https://github.com/iamAdarshAnand)
